@@ -52,8 +52,8 @@ Six Initial Contributor names received via email and one being the facilitator *
 
 This newsletter will also highlight issues that needs to be resolved in upcoming month i.e. June 2018. 
 
-* [ ] **Project Title** Estimated Deadline: June 3, 2018
-* [ ]   **.app domain registration** Estimated Deadline: June 5, 2018
+* [x] **Project Title** Estimated Deadline: June 3, 2018
+* [x]   **.app domain registration** Estimated Deadline: June 5, 2018
 * [ ]  Brainstorming Project ideas for feature creation
 * [ ] Creating wireframe of UI
 * [ ] Creating Wireframe of Logic

@@ -1,12 +1,12 @@
 # Table of contents
 
 * [Project Title](README.md)
-* [Newsletters](may-sprint-newsletter/README.md)
-  * [May Sprint](may-sprint-newsletter/may-sprint/README.md)
-    * [Proposal and Discussions](may-sprint-newsletter/may-sprint/proposal-and-discussions.md)
-  * June Sprint
-* [Sprint Retrospectives](project-retrospectives/README.md)
-  * May Retrospective
+* [Newsletters](newsletters/README.md)
+  * [May Sprint](newsletters/may-sprint/README.md)
+    * [Proposal and Discussions](newsletters/may-sprint/proposal-and-discussions.md)
+  * [June Sprint](newsletters/june-sprint.md)
+* [Sprint Retrospectives](sprint-retrospectives/README.md)
+  * [May Retrospective](sprint-retrospectives/may-retrospective.md)
 * [Project Structure](project-structure.md)
-* Technical Documentation
+* [Technical Documentation](technical-documentation.md)
 
