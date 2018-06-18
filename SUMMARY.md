@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Project Title](README.md)
+* [Medical Data Insight](README.md)
 * [Newsletters](newsletters/README.md)
   * [May Sprint](newsletters/may-sprint/README.md)
     * [Proposal and Discussions](newsletters/may-sprint/proposal-and-discussions.md)
