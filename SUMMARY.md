@@ -7,6 +7,7 @@
   * [June Sprint](newsletters/june-sprint.md)
 * [Sprint Retrospectives](sprint-retrospectives/README.md)
   * [May Retrospective](sprint-retrospectives/may-retrospective.md)
+  * [June Retrospective](sprint-retrospectives/june-retrospective.md)
 * [Project Structure](project-structure.md)
 * [Technical Documentation](technical-documentation.md)
 
